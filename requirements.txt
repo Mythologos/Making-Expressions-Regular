@@ -2,5 +2,4 @@ graphviz
 IPython
 ipywidgets
 jupyter
-python==3.11
 tock
