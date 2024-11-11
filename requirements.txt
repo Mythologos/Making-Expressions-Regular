@@ -2,4 +2,5 @@ graphviz
 IPython
 ipywidgets
 jupyter
+pydot
 tock
