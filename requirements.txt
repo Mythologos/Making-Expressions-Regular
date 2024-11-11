@@ -1,6 +1,6 @@
-graphviz
+graphviz==2.50.0
 IPython
 ipywidgets
 jupyter
-pydot
-tock
+pydot==2.0.0
+tock==0.31
