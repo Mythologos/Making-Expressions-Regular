@@ -5,6 +5,8 @@
 
 **Maintainer**: Stephen Bothwell
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mythologos/Making-Expressions-Regular/HEAD)
+
 ## Overview
 
 This repository contains a Jupyter notebook meant to educate on the use of regular expressions in Python 3. 
