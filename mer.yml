@@ -1,0 +1,10 @@
+name: Making-Expressions-Regular
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - python=3.11
+  - python-graphviz
+  - pip:
+      - ipywidgets
+      - tock
