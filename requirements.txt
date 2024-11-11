@@ -1,5 +1,5 @@
+graphviz
 IPython
 ipywidgets
 jupyter
-python-graphviz
 tock
